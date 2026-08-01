@@ -1,0 +1,19 @@
+key parent planetTerrainThemes_artDirected~!mercury.prop
+keys modelEffect
+	CC_mercury~
+end
+transforms modelEffectTransforms
+	-offset (52.3542862, -29.3169498, 498.9992676) -scale 1 -rotateXYZ -3.3623235 -5.9792361 0.3506449
+end
+floats terrainScriptEffectIntensities
+	1
+end
+uint32s terrainScriptEffectSeeds
+end
+floats terrainScriptEffectTimes
+	0
+end
+transforms terrainScriptModelTransforms
+end
+keys terrainScriptModels
+end

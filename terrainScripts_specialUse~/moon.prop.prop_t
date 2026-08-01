@@ -1,0 +1,27 @@
+key parent planetTerrainThemes_artDirected~!moon.prop
+keys modelEffect
+	CC_moon~
+	GP_Craters_Lite~
+	GP_Craters_Lite~
+end
+transforms modelEffectTransforms
+	-offset (367.659668, 100.0662537, -327.7406616) -scale 1 -rotateXYZ 163.0214386 -47.0143394 -167.4096222
+	-offset (142.006012, 269.9082642, -412.6179199) -scale 1 -rotateXYZ 146.8098755 -16.0670414 0.0000012
+	-offset (-252.7697144, 35.0673828, 444.7436523) -scale 1 -rotateXYZ 4.5083375 29.5355034 2.2259202
+end
+floats terrainScriptEffectIntensities
+	1
+	1
+	1
+end
+uint32s terrainScriptEffectSeeds
+end
+floats terrainScriptEffectTimes
+	0
+	0
+	0
+end
+transforms terrainScriptModelTransforms
+end
+keys terrainScriptModels
+end
