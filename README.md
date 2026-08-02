@@ -15,6 +15,7 @@ Currently included:
 
 ## Not compatible with:
 * [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth)
+
 Side note: this Earth already T3 planet
 
 ### Because this mod uses the old "All Planet Themes" file, some vanilla planets outside the Solar System may also be affected.
