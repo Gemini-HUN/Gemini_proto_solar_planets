@@ -13,6 +13,9 @@ Currently included:
 * Moon
 * Mars
 
+## Not compatible with:
+* [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth)
+
 ### Because this mod uses the old "All Planet Themes" file, some vanilla planets outside the Solar System may also be affected.
 
 **A galaxy reset is recommended before using this mod.**
