@@ -1,0 +1,16 @@
+key parent planetTerrainThemes~!2008feb_AllPlanets.prop
+string16 description "master planet theme file"
+keys terrainScriptAmbientEffects
+	0x0A7DC62F
+	0x40690BA3
+end
+vector3 terrainScriptPlanetInfo (5, 5, 500)
+vector3 terrainScriptWTALevels (0.5, 0.5, 0.5)
+key terrainThemeAboveDetail1 0xA5AB24F5
+key terrainThemeAboveDetail2 0xE2D70BAD
+key terrainThemeAboveDetailNoise 0xC5D262E4
+key terrainThemeBeach beach_grand_light
+key terrainThemeBeach2 beach_grand_dark
+key terrainThemeBelow 0xC66C3FCD
+key terrainThemeCliff cliff_grand
+int32 weatherCloudType 1

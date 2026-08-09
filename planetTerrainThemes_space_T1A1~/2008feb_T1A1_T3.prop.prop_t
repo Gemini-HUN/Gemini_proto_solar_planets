@@ -1,0 +1,57 @@
+key parent planetTerrainThemes~!2008feb_AllPlanets.prop
+keys terrainScriptAmbientEffectSelect1
+	0x0A7DC62F
+end
+keys terrainScriptAmbientEffectSelect2
+	0x22375781
+	0x0F2B4748
+	0xB3DA8BDB
+	0x7512ADE2
+	0x4063120F
+	0xFBB290FF
+	0x79157766
+	0x40690BA3
+	0xDAA91DDC
+	0x8A6735F2
+	0x852AA314
+end
+keys terrainScriptAmbientEffects
+	0x4275F2E3
+end
+transforms terrainScriptModelTransforms
+	-offset (-331.4418335, -426.8565063, 49.5851746) -scale 0.80895 -rotateXYZ -83.3740082 37.6424522 58.0891647
+	-offset (-518.8991699, 61.2442017, 30.9863892) -scale 0.875002 -rotateXYZ 63.1630669 82.4649811 -127.126297
+	-offset (-110.3936768, 494.8760986, 58.6289597) -scale 1.047125 -rotateXYZ 83.243576 12.4906988 146.4269104
+	-offset (417.8393555, 213.335083, 45.4297485) -scale 1.014253 -rotateXYZ 77.9784164 -62.4347115 -94.1490631
+	-offset (272.9039307, -411.6859131, 18.7354584) -scale 0.988107 -rotateXYZ -87.3943405 -33.5128517 150.5413971
+	-offset (-62.0358887, -455.2747803, 25.6260986) -scale 1.186463 -rotateXYZ -86.7784119 7.7472353 8.379221
+	-offset (-5.841557, -50.7837219, -537.3299561) -scale 0.836499 -rotateXYZ -174.6009521 0.620096 161.6454773
+	-offset (-208.7606506, 148.2995911, -429.4196777) -scale 1.1253951 -rotateXYZ 160.9476929 24.679533 84.6938934
+	-offset (-217.8200378, -206.4767456, -408.9887695) -scale 0.848752 -rotateXYZ -153.2132416 25.4278355 143.9476013
+	-offset (251.4976196, -157.7162781, -369.090332) -scale 1.068368 -rotateXYZ -156.8624573 -32.0708008 -36.3863449
+	-offset (186.0410767, 193.8370056, -441.4289551) -scale 0.989318 -rotateXYZ 156.2931061 -21.1009712 -100.0466385
+	-offset (-29.672142, 67.1234436, 523.0629883) -scale 1.002255 -rotateXYZ 7.312676 3.2204473 -42.2371788
+	-offset (-228.670578, -83.3791199, 434.1571045) -scale 1.110242 -rotateXYZ -10.8711796 27.3501396 -115.0337601
+	-offset (-199.612381, 307.3100586, 352.4619141) -scale 0.870419 -rotateXYZ 41.0850487 23.1161137 -10.9020395
+	-offset (220.7024231, 220.1682281, 386.0754395) -scale 0.829187 -rotateXYZ 29.6949139 -26.4082489 56.2776947
+	-offset (202.1889038, -152.8208618, 402.2419434) -scale 1.115581 -rotateXYZ -20.8028908 -25.1681385 -155.7613525
+end
+keys terrainScriptModels
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+	Adventure_roads~!syrup_resource1.prop
+end
+vector3 terrainScriptWTALevels (0.5, 0.5, 0.5)

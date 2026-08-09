@@ -1,0 +1,35 @@
+key parent planetTerrainThemes_artDirected~!2008feb_mars.prop
+keys modelEffect
+	CC_mars~
+	GO_raise_all~
+	GO_raise_all~
+	GO_raise_all~
+	GO_raise_all~
+end
+transforms modelEffectTransforms
+	-offset (-119.7530518, -85.0319519, 480.6551514) -scale 1 -rotateXYZ -10.0323124 13.7844458 -2.4137006
+	-offset (105.1806335, -383.5916138, 321.1278076) -scale 1 -rotateXYZ -50.0652657 -11.8734818 0.0000158
+	-offset (-172.923584, -300.5474854, -288.9224548) -scale 1 -rotateXYZ -133.8701935 22.5279808 0.0000067
+	-offset (-208.9374084, -265.8122864, 362.3850098) -scale 1 -rotateXYZ -36.2603264 24.9338837 0.0000096
+	-offset (-209.0502319, -435.6060486, 192.4049072) -scale 1 -rotateXYZ -66.1691971 23.7010555 0.0000147
+end
+floats terrainScriptEffectIntensities
+	1
+	1
+	1
+	1
+	1
+end
+uint32s terrainScriptEffectSeeds
+end
+floats terrainScriptEffectTimes
+	0
+	0
+	0
+	0
+	0
+end
+transforms terrainScriptModelTransforms
+end
+keys terrainScriptModels
+end
