@@ -10,6 +10,7 @@ Currently included:
 * Mercury
 * Venus
 * Earth
+* Earth2 (in the released version of Spore have 2 Earth file so I made 1:1 of the 1 beta script)
 * Moon
 * Mars
 
@@ -17,7 +18,5 @@ Currently included:
 * [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth)
 
 Side note: this **Earth already T3** planet
-
-### Because this mod uses the old "All Planet Themes" file, some vanilla planets outside the Solar System may also be affected.
 
 **A galaxy reset is recommended before using this mod.**
