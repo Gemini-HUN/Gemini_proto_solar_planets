@@ -21,6 +21,6 @@ Side note: **2008feb Earth already T3 planet**
 
 ## Compatible with
 * [Spore_hidden_planets](https://github.com/Gemini-HUN/Spore_hidden_planets)
-* Other unique planet mods
+* Any other planet mods
 
 **A galaxy reset is recommended before using this mod.**
