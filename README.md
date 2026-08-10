@@ -17,6 +17,9 @@ Currently included:
 ## Not compatible with:
 * [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth)
 
-Side note: this **Earth already T3** planet
+Side note: **2008feb Earth already T3 planet**
+
+## Compatible with
+* 
 
 **A galaxy reset is recommended before using this mod.**
