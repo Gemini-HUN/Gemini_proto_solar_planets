@@ -20,6 +20,7 @@ Currently included:
 Side note: **2008feb Earth already T3 planet**
 
 ## Compatible with
+* [Spore_hidden_planets](
 * 
 
 **A galaxy reset is recommended before using this mod.**
