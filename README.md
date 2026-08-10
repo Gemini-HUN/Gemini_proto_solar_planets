@@ -14,7 +14,7 @@ Currently included:
 * Moon
 * Mars
 
-## Not compatible with:
+## Not compatible with
 * [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth)
 
 Side note: **2008feb Earth already T3 planet**
