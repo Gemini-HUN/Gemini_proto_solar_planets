@@ -25,6 +25,7 @@ Side note: **2008feb Earth already T3 planet**
 
 ## Compatible with
 * [Spore_hidden_planets](https://github.com/Gemini-HUN/Spore_hidden_planets)
+* [Spore_Spiralplanet_crashedship](https://github.com/Gemini-HUN/Spore_Spiralplanet_crashedship)
 * Any other planet mods
 
 **A galaxy reset is recommended before using this mod.**
