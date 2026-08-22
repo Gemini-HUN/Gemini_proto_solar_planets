@@ -4,8 +4,7 @@
 This experimental mod restores the Solar System planets based on the February 2008 beta version of Spore.
 
 Tested by **Moon** from Discord. <br>
-Earth need more test because Moon had spices on it. <br>
-All planets should be spiceless!
+Every planet should be spicesless except Earth
 
 ## How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
