@@ -17,6 +17,9 @@ Currently included:
 * Moon
 * Mars
 
+## Recommended
+* [Sporemod-Fruits-in-civ-and-space](https://github.com/Gemini-HUN/Sporemod-Fruits-in-civ-and-space) if you want see the 2008 february fruits in your game.
+
 ## Not compatible with
 * [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth)
 
