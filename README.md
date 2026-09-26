@@ -9,7 +9,10 @@ Every planet should be spicesless except Earth
 ## How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
 
-Currently included:
+## Requirement
+* [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets)
+
+## Currently included
 * Mercury
 * Venus
 * Earth
