@@ -6,6 +6,8 @@ This experimental mod restores the Solar System planets based on the February 20
 Tested by **Moon** from Discord. <br>
 Every planet should be spicesless except Earth
 
+Compatibility test by **Aster**
+
 ## How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
 
