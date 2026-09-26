@@ -16,7 +16,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * Mercury
 * Venus
 * Earth
-* Earth2 (in the released version of Spore have 2 Earth file so I made 1:1 of the 1 beta script)
+* Earth2 (in the retail version of Spore have 2 Earth file so I made 1:1 of the 1 beta script)
 * Moon
 * Mars
 
