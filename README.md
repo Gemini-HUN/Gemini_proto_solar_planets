@@ -1,5 +1,5 @@
 # Gemini_proto_solar_planets
-## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Gemini_proto_solar_planets?style=flat-square&color=d81b60&logo=github)
+## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Gemini_proto_solar_planets/latest?style=flat-square&color=d81b60&logo=github)
 
 This experimental mod restores the Solar System planets based on the February 2008 beta version of Spore.
 
